@@ -1,0 +1,7 @@
+workflow:
+  as: opendatahub-io-install-operator
+  steps:
+    pre:
+    - ref: opendatahub-io-install-operator
+  documentation: |-
+      This workflow installs opendatahub operator

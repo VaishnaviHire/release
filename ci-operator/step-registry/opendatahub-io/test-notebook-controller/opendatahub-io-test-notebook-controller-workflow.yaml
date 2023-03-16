@@ -1,0 +1,7 @@
+workflow:
+  as: opendatahub-io-test-notebook-controller
+  steps:
+    pre:
+    - ref: opendatahub-io-test-notebook-controller
+  documentation: |-
+      This workflow installs opendatahub operator

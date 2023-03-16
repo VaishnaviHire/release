@@ -1,0 +1,9 @@
+{
+	"path": "opendatahub-io/test-notebook-controller/opendatahub-io-test-notebook-controller-workflow.yaml",
+	"owners": {
+		"approvers": [
+			"lavlas",
+			"VaishnaviHire"
+		]
+	}
+}

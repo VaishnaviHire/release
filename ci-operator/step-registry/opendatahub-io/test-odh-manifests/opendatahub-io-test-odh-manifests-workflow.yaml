@@ -1,0 +1,8 @@
+workflow:
+  as: opendatahub-io-test-odh-manifests
+  steps:
+    pre:
+    - ref: opendatahub-io-install-operator
+    - ref: test-notebook-controller
+  documentation: |-
+      This workflow tests odh-manifests

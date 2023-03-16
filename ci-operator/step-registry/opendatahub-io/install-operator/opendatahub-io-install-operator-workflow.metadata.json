@@ -1,0 +1,9 @@
+{
+	"path": "opendatahub-io/install-operator/opendatahub-io-install-operator-workflow.yaml",
+	"owners": {
+		"approvers": [
+			"lavlas",
+			"VaishnaviHire"
+		]
+	}
+}
